@@ -1,0 +1,21 @@
+# Cheat Engine Table Files
+*.ct
+
+# Compiled / binary outputs
+*.exe
+*.dll
+*.bin
+*.dat
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
